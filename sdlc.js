@@ -10,13 +10,15 @@
 // Maintain
 // Analysis of Requirements
 // Testing & Integration 
-
+/*
  Planning: 1
 Analysis of Requirements: 2
  Design: 3
  Implementation: 4
  Testing & Integration: 5 
  Maintain: 6
+ 
+ */
 
 
 //////////////////PROBLEM 2////////////////////
