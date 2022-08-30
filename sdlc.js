@@ -30,8 +30,8 @@ const analysisOfRequirements = " Analysis of Requirements is the second step. de
 
 const design = " The main goal of this stage is to collect data from the privous step like flow charts and sketches that guide the developers when creating the data base,user interface, and system interface.";
 
-const Implementation = " Implementation is where the the developers begin to code the custom software. By this step the a road map has been made and all the devlopers job is to write the code";
+const implementation = " Implementation is where the the developers begin to code the custom software. By this step the a road map has been made and all the devlopers job is to write the code";
 
-const TestingIntegration = "By this step the team ha completed at least on verison of the software, so they will start to test all areas of the software to see if they can detect any defects or bugs. Finally implementation is when the project is released to the client.";
+const testingIntegration = "By this step the team ha completed at least on verison of the software, so they will start to test all areas of the software to see if they can detect any defects or bugs. Finally implementation is when the project is released to the client.";
 
-const Maintain = " Maintaining a website is an ongoing step. Once the softwarte is live it will most like need to be updated or debugged at some put, maintance is required to fix bugs and add new features "
+const maintain = " Maintaining a website is an ongoing step. Once the softwarte is live it will most like need to be updated or debugged at some put, maintance is required to fix bugs and add new features "
